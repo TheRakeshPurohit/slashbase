@@ -1,5 +1,5 @@
-# Slashbase - Open-source collaborative-learning IDE for your databases in browser.
-Connect to your database, browse data, run a bunch of SQL commands or share & learn SQL queries with your friends, right from your browser!
+# Slashbase
+Open-source collaborative-learning IDE for your databases in browser. Connect to your database, browse data, run a bunch of SQL commands or share & learn SQL queries with your friends, right from your browser!
 
 It's written in Golang and Nextjs React Framework (SPA) and runs as a single Linux binary with PostgreSQL. Documentation is currently WIP.
 
