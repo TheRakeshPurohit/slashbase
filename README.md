@@ -7,7 +7,7 @@ It's written in Golang and Nextjs React Framework (SPA) and runs as a single Lin
 
 - **Cloud based**: Works in browser. Setup once and use everywhere. Self-host on your VPC.
 - **Easy to use**: Minimal interface, simple to use and easy sharing queries within team.
-- **Collaborative**: Works with your team. Assign roles like Analyst, Developer or Admin to manage read-write permissions.
+- **Collaborative**: Works with your freinds. Assign roles like Analyst, Developer or Admin to manage read-write permissions.
 
 ## Installation
 
