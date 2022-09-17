@@ -11,15 +11,7 @@ It's written in Golang and Nextjs React Framework (SPA) and runs as a single Lin
 
 ## Installation
 
-Please follow the [installation guide](https://docs.slashbase.com/get-started/install-slashbase) to install Slashbase on your own cloud (in your own VPC)
-
-## Documentation
-
-Detailed documentation is available at [docs.slashbase.com](https://docs.slashbase.com).
-
-## Contributing
-
-Read our [contribution guide](CONTRIBUTING.md) for getting started on contributing to the project.
+Please follow the following steps to install Slashbase on your own server/cloud.
 
 ## Support
 
